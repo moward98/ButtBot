@@ -11,4 +11,4 @@ To see the cigarette butt detection from the eyes of the ButtBot, please checkou
 
 For videos of the ButtBot in action, please checkout our [YouTube videos!](https://www.youtube.com/watch?v=GnF055Q1IkY&ab_channel=MorganWard)
 
-![alt text](https://github.com/moward98/ButtBot/blob/main/ButtBot.jpg)
+![alt text](https://github.com/moward98/ButtBot/blob/master/ButtBot.jpg)
